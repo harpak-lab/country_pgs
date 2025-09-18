@@ -1,0 +1,28 @@
+{
+    "id": "777DE06B",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1758044790890.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "id": "bc5e6e15aa784d9e8063c907400dfd96",
+        "name": "paths",
+        "title": "paths",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1758044790890,
+    "read_only": false,
+    "read_only_alternatives": []
+}
