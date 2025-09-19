@@ -7,7 +7,7 @@ library(scales)
 
 # ============================ Configuration ============================================
 paths <- list(
-  gbd         = "IHME-GBD_2021_DATA-6f3ab297-1.csv",  # Your GBD 2021 CSV file (replace with actual filename)
+  gbd         = "IHME-GBD_2021_DATA-cff1c199-1.csv",  # Your GBD 2021 CSV file (replace with actual filename)
   populations = "20131219.populations.tsv",          # Official 1KG population descriptions (TSV)
   metadata    = "pop_super_metadata.csv",            # No header: sample,pop,super_pop,gender
   bucket_map  = "bucket_map.csv"                     # Optional: two columns pop,bucket
@@ -71,11 +71,14 @@ metadata <- readr::read_csv(paths$metadata,
 # ============================ Pop -> Country Mapping (Align with GBD) =================
 # Manually map populations to countries/regions based on sampling location
 pop2country <- c(
-  ACB="African Union", ASW="African Union", ESN="Nigeria",
+  # ACB="African Union", ASW="African Union", ESN="Nigeria",
+  ACB="Barbados", ASW="United States of America", ESN="Nigeria",
   GWD="Gambia", LWK="Kenya", MSL="Sierra Leone", YRI="Nigeria",
   CLM="Colombia", MXL="Mexico", PEL="Peru", PUR="Puerto Rico",
   CDX="China", CHB="China", CHS="China", JPT="Japan", KHV="Viet Nam",
-  CEU="European Region", FIN="Finland", GBR="United Kingdom",
+  # CEU="European Region/Western Europe", 
+  CEU="United States of America", 
+  FIN="Finland", GBR="United Kingdom",
   IBS="Spain", TSI="Italy",
   BEB="Bangladesh", GIH="India", ITU="India",
   PJL="Pakistan", STU="Sri Lanka"
@@ -231,13 +234,16 @@ run_one <- function(cname, measure_key = c("prevalence")) {
     distinct(pop, country) %>%
     left_join(gbd_country_local, by = "country")
   
-  eps <- 1e-9  # 防止 log(0)
+  eps <- 1e-9
   combo_local <- pgs_by_pop_local %>%
     left_join(pop_country_metric_local, by = "pop") %>%
     filter(!is.na(y_metric)) %>%
     mutate(
       measure_used = measure_key,
-      y_logit = log(pmax(y_metric, eps))  # y_metric 是每10万人的病例数
+      # y_metric is incidence per 100,000 → convert to probability in [0,1]
+      p = pmin(pmax(y_metric / 1e5, eps), 1 - eps),
+      # logit(p) = log(p / (1 - p))
+      y_logit = qlogis(p)
     )
   
   # 5) Generate plot

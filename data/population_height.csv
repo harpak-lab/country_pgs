@@ -1,27 +1,27 @@
-Code,Country/Region,Male_Avg_Height_cm,Female_Avg_Height_cm
-ACB,African Union,,
-ASW,African Union,,
-ESN,Nigeria,167.2,160.3
-GWD,Gambia,167.2,160.3
-LWK,Kenya,169.6,158.2
-MSL,Sierra Leone,,
-YRI,Nigeria,167.2,160.3
-CLM,Colombia,170.6,158.7
-MXL,Mexico,172.0,159.0
-PEL,Peru,165.0,152.0
-PUR,Puerto Rico,,
-CDX,China,169.7,158.0
-CHB,China,169.7,158.0
-CHS,China,169.7,158.0
-JPT,Japan,171.8,158.6
-KHV,Viet Nam,168.0,155.0
-CEU,European Region,,
-FIN,Finland,180.7,167.2
-GBR,United Kingdom,177.0,164.0
-IBS,Spain,175.0,163.0
-TSI,Italy,174.5,161.8
-BEB,Bangladesh,162.4,150.0
-GIH,India,166.5,152.6
-ITU,India,166.5,152.6
-PJL,Pakistan,167.0,154.0
-STU,Sri Lanka,165.5,152.0
+Code,Country/Region,Male_Avg,Female_Avg,ps
+ACB,Barbados,177,165.7,African Caribbean in Barbados
+ASW,United States of America,175.3,161.3,african americans
+ESN,Nigeria,163.8,157.8,
+GWD,Gambia,167.2,160.3,
+LWK,Kenya,169.6,158.2,
+MSL,Sierra Leone,166,158,
+YRI,Nigeria,163.8,157.8,
+CLM,Colombia,170.6,158.7,
+MXL,Mexico,172,159,
+PEL,Peru,164,151,
+PUR,Puerto Rico,179.5,163.1,
+CDX,China,169.6,158.9,
+CHB,China,169.6,158.9,
+CHS,China,169.6,158.9,
+JPT,Japan,171.8,158.6,
+KHV,Viet Nam,168.1,156.2,green is teenager
+CEU,United States of America,175.3,161.3,not very solid
+FIN,Finland,180.7,167.2,2010-2011
+GBR,United Kingdom,175.15,161.6,average between england and scotland
+IBS,Spain,173.1,159.6,"spain, the male and female is separate"
+TSI,Italy,178.4,164.5,
+BEB,Bangladesh,162.1,150.3,
+GIH,India,165,152,
+ITU,India,165,152,
+PJL,Pakistan,165.8,153.9,
+STU,Sri Lanka,163.6,151.4,

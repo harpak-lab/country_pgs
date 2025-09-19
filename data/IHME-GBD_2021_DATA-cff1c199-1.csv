@@ -1,0 +1,133 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,6,China,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,6461.6727569815,7003.3374343604,5952.59337907836
+5,Prevalence,73,Western Europe,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,884.20893334438,918.63961154893,840.1530918648699
+5,Prevalence,73,Western Europe,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,4945.09853572254,5392.25325258741,4514.91913439318
+5,Prevalence,73,Western Europe,3,Both,22,All ages,515,Asthma,3,Rate,2013,6181.68047105951,6990.3284584515595,5365.2068471062
+5,Prevalence,73,Western Europe,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,1517.70751439221,1722.9454478141001,1311.19881169207
+5,Prevalence,6,China,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,194.4933306847,218.22164551855,170.90257446962
+5,Prevalence,6,China,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,7773.39007251665,8386.719717426271,7216.01409429901
+5,Prevalence,73,Western Europe,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,8692.3922871252,9188.673346544821,8174.23891572226
+5,Prevalence,20,Viet Nam,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1793.57660320735,2011.57593616022,1592.37538700088
+5,Prevalence,20,Viet Nam,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,105.30596053229,127.70045208131,84.62250150336
+5,Prevalence,6,China,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,3058.7239296204298,3414.28868994988,2745.5237372834204
+5,Prevalence,67,Japan,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,643.15872362943,681.91235529114,593.1986520896301
+5,Prevalence,20,Viet Nam,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,8980.12395773794,9837.08817567503,8215.32805296603
+5,Prevalence,17,Sri Lanka,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,150.60826150982,162.73714778393,137.99832215173998
+5,Prevalence,67,Japan,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,16247.33185925931,17281.59480971605,15091.575970199969
+5,Prevalence,102,United States of America,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,9814.08719253024,10400.131879487879,9289.44493244158
+5,Prevalence,79,Finland,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,4066.30163986283,4548.34705328394,3629.8178107900503
+5,Prevalence,102,United States of America,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,877.7163623777701,915.38903023414,832.99657444014
+5,Prevalence,17,Sri Lanka,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1801.8738106629398,2057.69978048256,1573.07584690899
+5,Prevalence,92,Spain,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,671.04556199931,718.1473717634,624.36533796756
+5,Prevalence,92,Spain,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,5107.847498411839,5560.5001872473495,4675.58662464873
+5,Prevalence,102,United States of America,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,5375.44567179597,5603.727091595069,5132.1460009517805
+5,Prevalence,17,Sri Lanka,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,10852.68885199082,11822.481480192371,9976.2856816166
+5,Prevalence,79,Finland,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,928.5522019632699,988.9108178113,869.50526367343
+5,Prevalence,67,Japan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,3745.19499596588,4347.98052323474,3179.36738058407
+5,Prevalence,102,United States of America,3,Both,22,All ages,515,Asthma,3,Rate,2013,9527.63531930879,10404.07443450868,8829.48600740318
+5,Prevalence,95,United Kingdom,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,8553.14328570265,9080.17195671197,7997.03411391951
+5,Prevalence,20,Viet Nam,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,2885.58355893789,3076.38545177449,2697.31885878511
+5,Prevalence,67,Japan,3,Both,22,All ages,515,Asthma,3,Rate,2013,3727.45273298122,4265.93974938835,3220.57295042282
+5,Prevalence,67,Japan,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,2174.11443513015,2485.98931893049,1870.14159002938
+5,Prevalence,107,Barbados,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,669.42033729025,731.5208018958899,610.63695465502
+5,Prevalence,86,Italy,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,4839.01220425072,5492.03189191875,4218.16853454401
+5,Prevalence,95,United Kingdom,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,855.8888807151,888.5132399555699,813.8491665882401
+5,Prevalence,107,Barbados,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,8698.564611506219,9316.67974850535,8088.40857223735
+5,Prevalence,6,China,3,Both,22,All ages,515,Asthma,3,Rate,2013,1659.42705324762,2006.59770036504,1393.0944564460601
+5,Prevalence,20,Viet Nam,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,461.39084021671994,527.97657710474,398.93382482458003
+5,Prevalence,20,Viet Nam,3,Both,22,All ages,515,Asthma,3,Rate,2013,2805.2331095094,3227.4654393827295,2413.3239015980203
+5,Prevalence,102,United States of America,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,10624.08624522852,11314.09479888654,9890.804460069801
+5,Prevalence,17,Sri Lanka,3,Both,22,All ages,515,Asthma,3,Rate,2013,3603.8676138844,4015.60782016709,3235.2234968919597
+5,Prevalence,17,Sri Lanka,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,8987.40387197077,9533.648652954891,8447.8319784844
+5,Prevalence,86,Italy,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,982.25353840796,1047.5549283153998,911.5759060918599
+5,Prevalence,17,Sri Lanka,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,527.11207995083,599.07892324922,453.24142768550996
+5,Prevalence,123,Peru,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,5253.87128829511,5650.91328347184,4879.32429011457
+5,Prevalence,95,United Kingdom,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,5897.06969219117,6429.52533995971,5358.069804359699
+5,Prevalence,125,Colombia,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,231.97470260699,249.54435507284,215.82506552007
+5,Prevalence,79,Finland,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,8894.538497983689,9463.10183529318,8318.14458133945
+5,Prevalence,92,Spain,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,8588.064735133059,9145.53908157463,8074.0844458538895
+5,Prevalence,107,Barbados,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1779.8530285007298,2006.10505303144,1570.9616628923302
+5,Prevalence,67,Japan,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,8790.34873248726,9788.30397725003,7889.283866960831
+5,Prevalence,161,Bangladesh,3,Both,22,All ages,515,Asthma,3,Rate,2013,1902.29090216824,2294.22384003578,1611.00983018756
+5,Prevalence,130,Mexico,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1827.46381897663,2055.13363516337,1615.56487287499
+5,Prevalence,125,Colombia,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,2214.92460464746,2476.68993528427,1970.7117750701102
+5,Prevalence,163,India,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,2231.4921006641403,2421.4419870663696,2019.22368918127
+5,Prevalence,165,Pakistan,3,Both,22,All ages,515,Asthma,3,Rate,2013,1809.08078229379,2175.56950959834,1515.1230323279801
+5,Prevalence,123,Peru,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1391.3109886575598,1559.30234032721,1228.33934567279
+5,Prevalence,102,United States of America,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,1303.76521235202,1490.81115816147,1126.20595123401
+5,Prevalence,73,Western Europe,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,6110.65688734732,6526.956309956181,5720.88241910012
+5,Prevalence,123,Peru,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,112.73374247801999,132.84559174223,94.81120680649
+5,Prevalence,163,India,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,61.890571930220005,66.41415491800001,57.15695770282
+5,Prevalence,86,Italy,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,9206.14729762298,9778.14631767734,8578.32072838022
+5,Prevalence,92,Spain,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,9118.002857395591,9640.12643924317,8604.12783065304
+5,Prevalence,92,Spain,3,Both,22,All ages,515,Asthma,3,Rate,2013,4723.183538894999,5426.83195085633,4066.4846352911695
+5,Prevalence,123,Peru,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,2609.20812773499,2773.37820228819,2450.91985906932
+5,Prevalence,95,United Kingdom,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,7086.94018050543,7636.90287208124,6560.56204620836
+5,Prevalence,180,Kenya,3,Both,22,All ages,515,Asthma,3,Rate,2013,3095.0014904038,3784.5847705684296,2553.53256925662
+5,Prevalence,79,Finland,3,Both,22,All ages,515,Asthma,3,Rate,2013,6962.816500667959,7817.31848277534,6169.8682641124105
+5,Prevalence,385,Puerto Rico,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,497.3989661534,533.37017638954,460.8584722547
+5,Prevalence,6,China,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,804.2080221676399,926.2460375754599,682.13385820184
+5,Prevalence,206,Gambia,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,821.80103292407,913.0714085313499,732.82987449287
+5,Prevalence,165,Pakistan,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,1323.63459111126,1468.01455823477,1178.50607834185
+5,Prevalence,130,Mexico,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,169.7478918505,173.70536300554,164.9368165722
+5,Prevalence,161,Bangladesh,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,44.01756403903,50.90829219224,37.50490743007
+5,Prevalence,79,Finland,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,7172.7533312968,7794.26680834786,6630.889065968599
+5,Prevalence,163,India,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,8163.392419236159,8807.237780919,7571.234421789889
+5,Prevalence,161,Bangladesh,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,6474.4812139590895,6788.2607590174,6166.64091553855
+5,Prevalence,125,Colombia,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,7580.671255207019,8106.40512864518,7096.81539917524
+5,Prevalence,214,Nigeria,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,5112.9297717366,5486.29565656577,4761.05946254119
+5,Prevalence,180,Kenya,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,689.60839891156,770.5937377019101,605.48195055976
+5,Prevalence,214,Nigeria,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,61.46962347336,81.03025077819,44.25005809918
+5,Prevalence,165,Pakistan,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,86.50811047602001,107.23534758707,67.73361431638
+5,Prevalence,217,Sierra Leone,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,34.24233968875,42.36446246372,26.430706439559998
+5,Prevalence,161,Bangladesh,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,224.12184490938,255.79681272136003,193.70904654115
+5,Prevalence,180,Kenya,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,49.944528125830004,62.4020621951,39.002020178929996
+5,Prevalence,161,Bangladesh,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,2032.2851552933703,2227.68596985017,1856.82579133764
+5,Prevalence,86,Italy,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,6451.9101529504005,7255.78345934435,5708.681313762841
+5,Prevalence,130,Mexico,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,7947.2198426944005,8481.81196172082,7440.66205261687
+5,Prevalence,206,Gambia,3,Both,22,All ages,429,Breast cancer,3,Rate,2013,19.924478559399997,25.26836093252,15.69760240969
+5,Prevalence,214,Nigeria,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,778.5221451559,867.27708838515,687.1667622459601
+5,Prevalence,95,United Kingdom,3,Both,22,All ages,515,Asthma,3,Rate,2013,10093.92360794323,11631.27366199913,8670.46314021678
+5,Prevalence,86,Italy,3,Both,22,All ages,515,Asthma,3,Rate,2013,3918.22168019109,4634.982269074841,3236.3551092615303
+5,Prevalence,161,Bangladesh,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,4276.96586328285,4547.067863924651,4007.3051138033597
+5,Prevalence,163,India,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,4003.10009849143,4404.74419824364,3623.41976702054
+5,Prevalence,385,Puerto Rico,3,Both,22,All ages,515,Asthma,3,Rate,2013,8770.756900839891,10296.6890447047,7438.735550973751
+5,Prevalence,107,Barbados,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,11201.86840982339,11974.04165185912,10488.092860731791
+5,Prevalence,217,Sierra Leone,3,Both,22,All ages,515,Asthma,3,Rate,2013,3596.33601250571,4224.87963029536,3080.5165923927802
+5,Prevalence,165,Pakistan,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,5936.20617072762,6416.483338959631,5494.62330259938
+5,Prevalence,206,Gambia,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,4208.50609979413,4548.184919057499,3895.17554368809
+5,Prevalence,214,Nigeria,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,110.94260333267,126.67018419194,95.58268120611
+5,Prevalence,214,Nigeria,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,1519.04633818261,1665.47281891265,1363.30070413439
+5,Prevalence,385,Puerto Rico,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,2978.3232033638596,3361.0894171313403,2600.56669131838
+5,Prevalence,107,Barbados,3,Both,22,All ages,515,Asthma,3,Rate,2013,7712.7352209688,9022.407440464971,6605.8560978450405
+5,Prevalence,180,Kenya,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,3543.60450872391,3877.1600454244203,3238.98141267291
+5,Prevalence,217,Sierra Leone,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,3,Rate,2013,825.59250155101,914.67309991494,737.18929486106
+5,Prevalence,206,Gambia,3,Both,22,All ages,515,Asthma,3,Rate,2013,2940.7537426429703,3486.43629262493,2491.8099031911297
+5,Prevalence,180,Kenya,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,171.24857929779,193.96598480998,147.95328141824
+5,Prevalence,180,Kenya,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,775.8538295245901,852.75788854906,694.79347111665
+5,Prevalence,214,Nigeria,3,Both,22,All ages,515,Asthma,3,Rate,2013,4901.7682844157,6092.45249824131,4026.7405493912797
+5,Prevalence,385,Puerto Rico,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,14854.92549721805,15867.58498807571,13794.196098261591
+5,Prevalence,79,Finland,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,1463.99326299608,1687.5440256931,1249.21521094915
+5,Prevalence,123,Peru,3,Both,22,All ages,515,Asthma,3,Rate,2013,4763.58123582605,6043.60202277011,3730.41463343412
+5,Prevalence,125,Colombia,3,Both,22,All ages,515,Asthma,3,Rate,2013,3698.03873473303,4418.429886588529,3120.0339327765896
+5,Prevalence,163,India,3,Both,22,All ages,515,Asthma,3,Rate,2013,2387.58496488522,2838.61682489966,2052.56313870829
+5,Prevalence,125,Colombia,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,4979.5735161609,5410.01805227702,4655.90488320626
+5,Prevalence,165,Pakistan,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,157.62119589799,179.83497587435,135.24645146784
+5,Prevalence,165,Pakistan,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,3955.80994442553,4349.72865864735,3584.2524472106597
+5,Prevalence,217,Sierra Leone,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,2287.14726488115,2491.7470330063697,2089.09695235266
+5,Prevalence,385,Puerto Rico,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,1085.27760702092,1236.44756138749,937.70460061325
+5,Prevalence,385,Puerto Rico,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,9647.04359404419,10272.066265574,9001.10140656064
+5,Prevalence,217,Sierra Leone,3,Both,22,All ages,589,Chronic kidney disease,3,Rate,2013,4363.57057702874,4706.10208448044,4049.95510994446
+5,Prevalence,130,Mexico,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,7777.832014881809,8511.532108868749,7086.30192917416
+5,Prevalence,206,Gambia,3,Both,22,All ages,976,Diabetes mellitus type 2,3,Rate,2013,2259.66947387155,2455.68345306032,2062.9235579811
+5,Prevalence,217,Sierra Leone,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,142.42463198175,161.7869898105,122.62046840606001
+5,Prevalence,86,Italy,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,1708.42765975227,1956.99348316243,1477.7644127778299
+5,Prevalence,92,Spain,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,1351.3604708980101,1511.68491490455,1190.5443598223
+5,Prevalence,95,United Kingdom,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,1280.33959460005,1459.5937075812,1101.76811724796
+5,Prevalence,206,Gambia,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,141.35512234695,161.68030602748,120.98112611970001
+5,Prevalence,130,Mexico,3,Both,22,All ages,515,Asthma,3,Rate,2013,2664.15033811231,3359.98371158781,2133.2605643818297
+5,Prevalence,125,Colombia,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,587.86271632697,664.9052253155,511.29212023396
+5,Prevalence,107,Barbados,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,826.605915931,950.76019973188,712.25731554762
+5,Prevalence,163,India,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,239.38756146096,272.78683837899,205.93016505986
+5,Prevalence,123,Peru,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,370.06037734599,422.95933590904,322.55155340807
+5,Prevalence,130,Mexico,3,Both,22,All ages,543,Alzheimer's disease and other dementias,3,Rate,2013,389.76546006304,445.66804380094,337.48730962064
